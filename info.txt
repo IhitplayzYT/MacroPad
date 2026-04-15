@@ -3,3 +3,4 @@ total := 21
 1 x 1.5 := 4
 
 
+Maybe add rotary encoders to use for some more macropad like functionality
