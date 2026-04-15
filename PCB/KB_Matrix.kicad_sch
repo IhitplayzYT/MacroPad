@@ -1249,7 +1249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1332,7 +1332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -1414,7 +1414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1497,7 +1497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -1580,7 +1580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -1663,7 +1663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -1745,7 +1745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1827,7 +1827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -1909,7 +1909,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -1991,7 +1991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 147.32 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2074,7 +2074,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 129.54 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -2157,7 +2157,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -2240,7 +2240,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 129.54 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -2322,7 +2322,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2404,7 +2404,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2487,7 +2487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 149.86 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -2570,7 +2570,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 129.54 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -2653,7 +2653,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 129.54 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -2735,7 +2735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -2817,7 +2817,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2900,7 +2900,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -2983,7 +2983,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -3066,7 +3066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -3148,7 +3148,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3231,7 +3231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -3314,7 +3314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -3396,7 +3396,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3479,7 +3479,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -3561,7 +3561,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -3643,7 +3643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3726,7 +3726,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 149.86 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -3808,7 +3808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -3891,7 +3891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -3973,7 +3973,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4056,7 +4056,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -4139,7 +4139,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -4221,7 +4221,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4303,7 +4303,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 147.32 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4385,7 +4385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4467,7 +4467,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4549,7 +4549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4632,7 +4632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 129.54 97.79 90)
 			(hide yes)
 			(show_name no)

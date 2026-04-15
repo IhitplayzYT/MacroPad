@@ -5605,17 +5605,17 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 53.594 169.418 90)
+			(at 58.928 160.274 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 58.1152 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -5674,7 +5674,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "06ecd261-f107-4e97-b8b4-4ce5e0054435")
-		(property "Reference" "5.1k"
+		(property "Reference" "R1"
 			(at 224.79 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5684,7 +5684,7 @@
 				)
 			)
 		)
-		(property "Value" "Resistor"
+		(property "Value" "5.1k"
 			(at 224.536 42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5694,7 +5694,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 224.79 46.228 0)
 			(hide yes)
 			(show_name no)
@@ -5736,7 +5736,7 @@
 		(instances
 			(project "PCB"
 				(path "/61897acb-2078-4c47-92ce-82a0439bac7e"
-					(reference "5.1k")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -5776,7 +5776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:TRRS_PJ-320A"
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_PJ311_Horizontal"
 			(at 154.94 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -5853,17 +5853,17 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 43.434 169.418 90)
+			(at 48.514 160.528 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 47.9552 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6012,7 +6012,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 73.914 169.418 90)
+			(at 74.676 161.036 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6022,7 +6022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 78.4352 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6659,7 +6659,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 23.114 169.418 90)
+			(at 22.606 168.148 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6669,7 +6669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 27.6352 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6749,7 +6749,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
 			(at 229.87 41.148 0)
 			(hide yes)
 			(show_name no)
@@ -6820,7 +6820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF"
 			(at 254 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6831,7 +6831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 251.1552 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7831,17 +7831,17 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 33.274 169.418 90)
+			(at 38.862 160.274 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 37.7952 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7900,7 +7900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b19b22b7-4d66-4e3d-ae26-353c6a9c918e")
-		(property "Reference" "5.1k"
+		(property "Reference" "R2"
 			(at 224.79 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7910,7 +7910,7 @@
 				)
 			)
 		)
-		(property "Value" "Resistor"
+		(property "Value" "5.1k"
 			(at 225.298 49.276 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7920,7 +7920,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 224.79 48.768 0)
 			(hide yes)
 			(show_name no)
@@ -7962,7 +7962,7 @@
 		(instances
 			(project "PCB"
 				(path "/61897acb-2078-4c47-92ce-82a0439bac7e"
-					(reference "5.1k")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -8080,7 +8080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:OLED_128x64"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 92.71 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -8244,7 +8244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 208.28 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8363,7 +8363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 91.44 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -8522,7 +8522,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 30.48 63.8048 0)
 			(hide yes)
 			(show_name no)
@@ -8737,10 +8737,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f62cf9de-8faf-4433-b418-5edbb382b5bb")
-		(property "Reference" "10k"
-			(at 104.14 96.52 0)
+		(property "Reference" "R3"
+			(at 104.14 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8749,8 +8748,8 @@
 				)
 			)
 		)
-		(property "Value" "Resistor"
-			(at 104.14 99.06 0)
+		(property "Value" "10k"
+			(at 103.886 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8759,7 +8758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 104.14 104.648 0)
 			(hide yes)
 			(show_name no)
@@ -8801,7 +8800,7 @@
 		(instances
 			(project "PCB"
 				(path "/61897acb-2078-4c47-92ce-82a0439bac7e"
-					(reference "10k")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8830,7 +8829,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF"
 			(at 275.59 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8841,7 +8840,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 272.7452 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8912,7 +8911,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 63.754 169.418 90)
+			(at 65.024 161.036 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8922,7 +8921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 68.2752 170.18 0)
 			(hide yes)
 			(show_name no)

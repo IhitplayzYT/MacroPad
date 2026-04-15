@@ -1249,7 +1249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1414,7 +1414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1745,7 +1745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1827,7 +1827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -1909,7 +1909,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -1991,7 +1991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 147.32 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2322,7 +2322,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2404,7 +2404,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2735,7 +2735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -2817,7 +2817,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3148,7 +3148,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3396,7 +3396,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3561,7 +3561,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -3643,7 +3643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3808,7 +3808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 106.68 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -3973,7 +3973,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4221,7 +4221,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 137.16 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4303,7 +4303,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 147.32 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4385,7 +4385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 116.84 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4467,7 +4467,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4549,7 +4549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Keyboard switches:Kailh_socket_PG1350"
 			(at 127 78.74 0)
 			(hide yes)
 			(show_name no)
