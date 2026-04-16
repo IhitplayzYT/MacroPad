@@ -248,7 +248,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "0d3cc52e-8289-477f-9684-7434d981c233")
-		(at 103.02 47.525)
+		(at 113.06 60.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D2"
@@ -538,13 +538,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "10666dc4-2e3e-4445-866b-40a02ddb2c66")
-		(at 73.875 67.425)
+		(at 72.4 65.1)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S14"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "bd063187-4bcc-4fdf-bcbf-4e7383df3449")
+			(uuid "37196473-b160-4dfd-b0ca-f2f75bab3036")
 			(effects
 				(font
 					(size 1 1)
@@ -556,7 +556,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "3f9c8bf8-ab21-4e25-879b-d53ad670e79c")
+			(uuid "9d50b77a-3d9d-4b9a-a16f-09cf9a6e8765")
 			(effects
 				(font
 					(size 1 1)
@@ -568,7 +568,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e4301e1a-a575-4780-ac13-c768de603f41")
+			(uuid "87fe3f3f-5c38-48b9-a017-f44b1f0b83cc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -579,7 +579,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14b2bef9-4ce7-4514-b1de-ee70473887e0")
+			(uuid "85d68179-229b-4076-b778-854f1a9f1aaf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1582,13 +1582,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "12ccdf85-69cf-4c6e-943e-2b638b9c442b")
-		(at 73.875 134.825)
+		(at 72.4 80.3)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S18"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "92d1b418-c26a-493f-908c-89f939110344")
+			(uuid "cc8b4d09-86d0-45ba-bb9c-a97d9bcb5d0a")
 			(effects
 				(font
 					(size 1 1)
@@ -1600,7 +1600,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "58030c91-feec-4a6f-baf9-3d2733fb1c9b")
+			(uuid "67c830d1-afc1-4152-9018-3a92ab42f4f5")
 			(effects
 				(font
 					(size 1 1)
@@ -1612,7 +1612,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b801ac9c-b1ad-4bba-ae92-5981d26a1f28")
+			(uuid "e4a44b52-ccfa-4e98-84f6-ea4abd733240")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1623,7 +1623,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c29085b-11d8-4373-8bf6-8c05629fca30")
+			(uuid "2ab77095-8c91-468b-a508-ad621ed465b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2264,13 +2264,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "16939441-decf-4108-a51d-19cf51b84ee2")
-		(at 55.725 117.975)
+		(at 26.8 65.1)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S11"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "d1674630-3a65-43b1-a3b2-b4da5cb2bfe0")
+			(uuid "0e0f9d7a-bd27-40f0-a3df-99081cd77fab")
 			(effects
 				(font
 					(size 1 1)
@@ -2280,9 +2280,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 8.255 0)
+			(at 1.85 39.38 0)
 			(layer "F.Fab")
-			(uuid "3280da4e-08d2-4ecf-ac35-0800dc73e0a1")
+			(uuid "ded3d4f5-4c6d-4120-b5eb-0ebb256f5353")
 			(effects
 				(font
 					(size 1 1)
@@ -2294,7 +2294,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad0e9a33-751a-4f22-b38c-4be5a5d7a568")
+			(uuid "cfe2a7b9-18ef-4642-9d68-afac1a9c15a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2305,7 +2305,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9471c1cd-8eca-4c68-bf75-f0a33340110b")
+			(uuid "44a28fac-dd70-4da8-b505-9740f2623a16")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,7 +2870,7 @@
 			)
 		)
 		(fp_text user "${VALUE}"
-			(at -1 9 0)
+			(at 0.85 40.125 0)
 			(layer "B.Fab")
 			(uuid "0fa15136-9919-4b6c-9f2d-71bc71ebcc8b")
 			(effects
@@ -2946,13 +2946,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "1a13ccf5-7c8f-47e6-b67c-0216efab743a")
-		(at 73.875 50.575)
+		(at 57.2 65.1)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S13"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "cd54ca24-b747-4e39-a18d-5f0c8e61e0c5")
+			(uuid "499d3cf9-fa12-46f6-8266-0052817b4a6d")
 			(effects
 				(font
 					(size 1 1)
@@ -2964,7 +2964,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "555280d7-72d0-447a-b034-802eab74ee38")
+			(uuid "b09556da-2bb7-4354-86a8-bbbdedb513f6")
 			(effects
 				(font
 					(size 1 1)
@@ -2976,7 +2976,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e005b3b7-ee4f-4716-919e-7891dcafe93b")
+			(uuid "13782a53-90ca-4227-877d-c302bdcff101")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2987,7 +2987,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4fe2abb4-40a9-4132-ad99-410a5ccfd4b9")
+			(uuid "3f399488-32d1-48f1-b6a2-3c2bc778af08")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3628,7 +3628,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "1aff4c13-8d8f-4665-a4dd-b2dbe0cba09d")
-		(at 55.725 84.275)
+		(at 72.4 49.9)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S9"
@@ -4468,7 +4468,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "2752ec19-701d-424b-a181-72a2eef70aa1")
-		(at 103.02 67.625)
+		(at 113.06 80.25)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D8"
@@ -4758,7 +4758,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "3413442a-7a22-4abd-ae01-7975010b963a")
-		(at 126.155 47.015)
+		(at 136.195 59.64)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -4916,7 +4916,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "34a1bde8-cdbe-444c-bb5a-fe456c0d676b")
-		(at 37.575 84.275)
+		(at 57.2 34.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S3"
@@ -5914,7 +5914,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "3e21c97b-f8c0-4301-8ebb-7e0f119fafb9")
-		(at 114.61 54.225)
+		(at 124.65 66.85)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D20"
@@ -6204,7 +6204,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "43ff7bda-ad1b-4efe-af9c-230606c47223")
-		(at 37.575 117.975)
+		(at 87.6 34.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S5"
@@ -6252,7 +6252,6 @@
 				)
 			)
 		)
-		(path "/a92edfaf-c5c9-4d6d-a061-75eff395646f/ec3023e2-5421-466b-af25-85e59037f723")
 		(sheetname "/KB_Matrix/")
 		(sheetfile "KB_Matrix.kicad_sch")
 		(units
@@ -6886,7 +6885,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "4993b012-2fbb-4278-9873-ea6c10fa3ad2")
-		(at 37.575 101.125)
+		(at 72.4 34.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S4"
@@ -7568,7 +7567,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "4b3db500-29ac-4fe7-a300-6bc4595b2397")
-		(at 55.725 101.125)
+		(at 87.6 57.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S10"
@@ -8174,7 +8173,7 @@
 			)
 		)
 		(fp_text user "${VALUE}"
-			(at -1 9 0)
+			(at 0.85 40.125 0)
 			(layer "B.Fab")
 			(uuid "333976d0-8889-4627-be79-1991cea24a0b")
 			(effects
@@ -8825,7 +8824,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "50424297-bbdc-43e6-9935-d34d3d837f96")
-		(at 55.725 50.575)
+		(at 42 49.9)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S7"
@@ -9507,7 +9506,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "5308db46-ae7c-434e-bad3-e2a8e07fe2a8")
-		(at 108.815 47.525)
+		(at 118.855 60.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
@@ -9797,7 +9796,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "54c882a6-f487-4385-9f77-9a31e07d8dd3")
-		(at 108.815 67.625)
+		(at 118.855 80.25)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
@@ -10667,7 +10666,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "583944d8-7903-4340-ba83-ac17456c5ebe")
-		(at 108.815 54.225)
+		(at 118.855 66.85)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
@@ -10957,7 +10956,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "5fc36ef5-31cf-4d2f-bcb0-4b37dba5f1e4")
-		(at 130.605 44.005)
+		(at 140.645 56.63)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -12001,7 +12000,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "660c32c5-3628-46af-a8dd-d8a4b503882d")
-		(at 121.705 44.005)
+		(at 131.745 56.63)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -12159,13 +12158,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "6a5d5dcc-d436-438a-9b7d-23c698eaf0d3")
-		(at 92.025 50.575)
+		(at 30.5 95.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S19"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "8ea7a6ce-3b9e-470e-93eb-38ce1ebfae43")
+			(uuid "be7a4c2c-92b7-41df-b42b-fa15e40ceb9e")
 			(effects
 				(font
 					(size 1 1)
@@ -12177,7 +12176,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "a25b8196-7787-4dfc-98cc-a2361b871dc6")
+			(uuid "205538dc-ff2a-4bc0-ac47-b53a29ff12ac")
 			(effects
 				(font
 					(size 1 1)
@@ -12189,7 +12188,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "42a3ca33-c315-4da4-8623-27d0c687387d")
+			(uuid "17629eca-4c89-4ec7-975e-558f8721a404")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12200,7 +12199,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec1b5f17-deb0-4b7b-b79a-2f66656c5e50")
+			(uuid "239c6e3e-46d1-46e7-9c03-8c0962eb57a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12841,7 +12840,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "6a635379-dbe9-4db5-b6fe-f828cda0c8f8")
-		(at 114.61 50.875)
+		(at 124.65 63.5)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D19"
@@ -13289,7 +13288,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "6b6f8935-a0c2-449e-a809-ceb06b096f7e")
-		(at 103.02 44.175)
+		(at 113.06 56.8)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
@@ -13579,7 +13578,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "6bb30ff4-2e6d-4e22-8680-94db0e58adf6")
-		(at 108.815 60.925)
+		(at 118.855 73.55)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
@@ -13869,7 +13868,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "7257ae16-4ce0-453e-b7d0-52da7792f0ce")
-		(at 126.155 50.025)
+		(at 136.195 62.65)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -14706,13 +14705,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "758e36e7-cfc4-4001-b870-6a0f6e1d90f5")
-		(at 92.025 67.425)
+		(at 57.2 95.5)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S20"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "5f62d6f4-5e0e-4b85-8de5-769b69410f6e")
+			(uuid "4c27c8d4-e62d-460d-9263-d02ee2b2f426")
 			(effects
 				(font
 					(size 1 1)
@@ -14724,7 +14723,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "7242db1d-bee7-4d22-ab51-500aeea88c96")
+			(uuid "7335664b-7585-4ea8-87dc-0b876a204aba")
 			(effects
 				(font
 					(size 1 1)
@@ -14736,7 +14735,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "871a7142-a3ee-468b-af9e-2ad0b91fd6ea")
+			(uuid "4e9a8938-b6ff-4ba0-b362-99dbf3fc8989")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14747,7 +14746,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d0173e6-19ef-4bf7-b340-a9c5572741a7")
+			(uuid "c022d14a-aa0f-497f-9fd8-23815524a9b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15388,7 +15387,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "77e57490-07db-4389-a43c-3bbd6c2fe4e8")
-		(at 103.02 57.575)
+		(at 113.06 70.2)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D5"
@@ -15440,7 +15439,6 @@
 			)
 		)
 		(property ki_fp_filters "D*DO?35*")
-		(path "/a92edfaf-c5c9-4d6d-a061-75eff395646f/b5420873-8573-4cbf-9346-9735a541f3d6")
 		(sheetname "/KB_Matrix/")
 		(sheetfile "KB_Matrix.kicad_sch")
 		(units
@@ -15678,7 +15676,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "7aaa1aef-01d4-40c8-869f-07a25f707190")
-		(at 108.815 64.275)
+		(at 118.855 76.9)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
@@ -15968,7 +15966,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "7b37f691-20f4-44fc-93c2-df1bc3ec764e")
-		(at 108.815 57.575)
+		(at 118.855 70.2)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
@@ -16258,7 +16256,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "818130c8-f123-4f44-b4e7-a55fd3848d0a")
-		(at 130.605 50.025)
+		(at 140.645 62.65)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C9"
@@ -16574,7 +16572,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "96bf7373-06cd-46ab-a498-2bbcaf284529")
-		(at 37.575 134.825)
+		(at 26.78 49.9)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S6"
@@ -17256,7 +17254,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "97e0cc4a-f33b-427d-b003-797f237af34f")
-		(at 121.705 50.025)
+		(at 131.745 62.65)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -17990,13 +17988,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "a8a908db-942d-4ed0-951b-f0f272fdbc35")
-		(at 37.575 67.425)
+		(at 42 34.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S2"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "e8f0fc0a-c438-4494-8d90-7bc78bebc6df")
+			(uuid "a52bb497-df7b-431c-9638-c2b3bdfce1d2")
 			(effects
 				(font
 					(size 1 1)
@@ -18008,7 +18006,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "ab091923-24f5-41f2-9a08-630d9d4c27c1")
+			(uuid "b5b2839f-7f7a-48ea-9f4c-55f389e849b1")
 			(effects
 				(font
 					(size 1 1)
@@ -18020,7 +18018,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1ebab9a-a44c-4670-a8e6-f7833b7b7ef4")
+			(uuid "2651fc96-7fe6-4a47-902b-109753a283bb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18031,7 +18029,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "20fae381-1025-4357-ba06-29b7bf75560a")
+			(uuid "a8a63c7f-63d9-4b2c-a39d-9b8ce0df0ede")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18672,7 +18670,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "abb06cbb-04ec-4318-8cfb-e22e47f7ced6")
-		(at 108.815 44.175)
+		(at 118.855 56.8)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
@@ -18962,13 +18960,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "abc0b468-ca94-4079-95cd-5a4c17021f2b")
-		(at 55.725 134.825)
+		(at 42 65.1)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S12"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "9906f5fb-bd3b-4f5e-a7ac-0499a90ab570")
+			(uuid "4dfa0d43-a709-4559-95fc-fb4b97759a44")
 			(effects
 				(font
 					(size 1 1)
@@ -18978,9 +18976,9 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 8.255 0)
+			(at 1.85 39.38 0)
 			(layer "F.Fab")
-			(uuid "caa0395e-c330-4422-a21f-0a48329d2783")
+			(uuid "decfd166-9a5a-4be1-8541-f74a605f75d1")
 			(effects
 				(font
 					(size 1 1)
@@ -18992,7 +18990,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13b03ae5-b486-4938-b3d7-cebb0c5d7d6f")
+			(uuid "f9f11a2b-697a-4666-92b9-b4338283b90a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19003,7 +19001,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37d98165-5117-4cda-b56a-0d69d6e0fac4")
+			(uuid "8575f145-f202-45c2-a897-eed1e38ca733")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19568,7 +19566,7 @@
 			)
 		)
 		(fp_text user "${VALUE}"
-			(at -1 9 0)
+			(at 0.85 40.125 0)
 			(layer "B.Fab")
 			(uuid "46bb2c71-c743-49f9-9453-3936fd600a05")
 			(effects
@@ -19644,7 +19642,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "b111b029-acc3-4395-92a0-ee5ca92bbf6a")
-		(at 103.02 50.875)
+		(at 113.06 63.5)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D3"
@@ -19934,13 +19932,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "b12abfe5-989c-49d3-ba6d-068ee2f3ee91")
-		(at 73.875 117.975)
+		(at 57.2 80.3)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S17"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "79733da8-62f1-4cab-a995-e00d69f9ee06")
+			(uuid "6196cc0f-6f7c-4aac-bf41-72c46a2c006f")
 			(effects
 				(font
 					(size 1 1)
@@ -19952,7 +19950,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "c2762c69-e975-4f1d-807d-b50ba162a4e5")
+			(uuid "cd80bf4f-7274-46e5-a150-74bda99ee09a")
 			(effects
 				(font
 					(size 1 1)
@@ -19964,7 +19962,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "77f557eb-e847-450c-891a-de4acff8f9a5")
+			(uuid "f50034b2-4534-43d9-96b2-0112a5196f95")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19975,7 +19973,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d42f7531-07d2-4157-9013-35e567b89c4f")
+			(uuid "d2b83cc5-2e80-4c52-8c50-d90d73779388")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20998,7 +20996,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "c4a68a44-8c04-4420-b611-3d36a39309bc")
-		(at 103.02 60.925)
+		(at 113.06 73.55)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
@@ -21285,10 +21283,692 @@
 			)
 		)
 	)
+	(footprint "Keyboard switches:Kailh_socket_PG1350"
+		(layer "F.Cu")
+		(uuid "c6554940-e146-4c72-bc82-67d7f92887fd")
+		(at 87.6 80.3)
+		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "S22"
+			(at -5 -2 0)
+			(layer "B.SilkS")
+			(uuid "d12b9297-56f0-438e-8ee9-f1c3afbc9c89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "~"
+			(at 0 8.255 0)
+			(layer "F.Fab")
+			(uuid "09790315-f7be-4728-860e-71e732a4b488")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e1f507a-c301-4e46-b285-b34c61490ecc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa1e1b04-4b01-4dcc-83ba-f4dc721c8308")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/a92edfaf-c5c9-4d6d-a061-75eff395646f/12b92f54-b29d-456e-9869-266a93cc5254")
+		(sheetname "/KB_Matrix/")
+		(sheetfile "KB_Matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -7 -6)
+			(end -7 -7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7e1820b3-c3d1-43d1-b1ae-76fe4cea0eb6")
+		)
+		(fp_line
+			(start -7 7)
+			(end -7 6)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2f8ad20a-81a0-47a5-9ae6-ad6e1c4f4c55")
+		)
+		(fp_line
+			(start -7 7)
+			(end -6 7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a98c215b-ea06-4b19-9e45-f2473d42d470")
+		)
+		(fp_line
+			(start -6 -7)
+			(end -7 -7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7ddabdc9-7591-49a4-ac68-2a9e5472d35a")
+		)
+		(fp_line
+			(start 6 7)
+			(end 7 7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7edf75bc-7e1e-4a93-9b98-f545a77fd937")
+		)
+		(fp_line
+			(start 7 -7)
+			(end 6 -7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "48010e11-2813-4fad-b5e4-b43025020e80")
+		)
+		(fp_line
+			(start 7 -7)
+			(end 7 -6)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8b0d600e-086b-4652-ab63-f77f05fcf287")
+		)
+		(fp_line
+			(start 7 6)
+			(end 7 7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "624640d1-3ea7-4b93-99c3-2ba06a2e1161")
+		)
+		(fp_line
+			(start 7 7)
+			(end 6 7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9f245747-2a40-4de2-9de6-51732f0f3de2")
+		)
+		(fp_line
+			(start -7 1.5)
+			(end -7 2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "8a20d966-c2ca-4325-b05d-015e41603a6a")
+		)
+		(fp_line
+			(start -7 5.6)
+			(end -7 6.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "cb6dd394-cf86-4df3-9e6f-f7bfdc8a2937")
+		)
+		(fp_line
+			(start -7 6.2)
+			(end -2.5 6.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "9e5f9d6b-17f8-4492-a50c-f03e51418b6a")
+		)
+		(fp_line
+			(start -2.5 1.5)
+			(end -7 1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "9085130b-87d7-4323-a7ac-e07bfd415505")
+		)
+		(fp_line
+			(start -2.5 2.2)
+			(end -2.5 1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "63d513b6-66e2-4c8f-8c17-7acab2e4cece")
+		)
+		(fp_line
+			(start -2 6.7)
+			(end -2 7.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "6d88a16a-eb34-456b-bf82-956c72a3daab")
+		)
+		(fp_line
+			(start -1.5 8.2)
+			(end -2 7.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "78f750e9-ef88-4ea2-9425-29cdb1130b48")
+		)
+		(fp_line
+			(start 1.5 3.7)
+			(end -1 3.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "499afe09-597d-43e4-a8b3-0195e4429776")
+		)
+		(fp_line
+			(start 1.5 8.2)
+			(end -1.5 8.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "b22fc280-6398-49de-890e-af7f1c4e78d1")
+		)
+		(fp_line
+			(start 2 4.2)
+			(end 1.5 3.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "63f2632d-715b-4797-aeb4-f218ab042e73")
+		)
+		(fp_line
+			(start 2 7.7)
+			(end 1.5 8.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "4efb0ede-0105-40a9-9a82-8b64c948ab40")
+		)
+		(fp_arc
+			(start -2.5 6.2)
+			(mid -2.146447 6.346447)
+			(end -2 6.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ef0b2c5b-3abd-4a60-bd5e-810581061076")
+		)
+		(fp_arc
+			(start -1 3.7)
+			(mid -2.06066 3.26066)
+			(end -2.5 2.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "0f6b6652-99a7-4017-8777-78f7cd85120d")
+		)
+		(fp_line
+			(start -6.9 6.9)
+			(end -6.9 -6.9)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "76d42472-cdfe-489b-9abc-1c3c17aabb33")
+		)
+		(fp_line
+			(start -6.9 6.9)
+			(end 6.9 6.9)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "1e68d1cd-1b42-41d6-b3d6-9e8183818510")
+		)
+		(fp_line
+			(start -2.6 -3.1)
+			(end -2.6 -6.3)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "4ab03d2b-124f-49ae-8f9d-23edf4b4daad")
+		)
+		(fp_line
+			(start -2.6 -3.1)
+			(end 2.6 -3.1)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "ac282fd8-7c66-4b86-86bf-d022bf7dc83e")
+		)
+		(fp_line
+			(start 2.6 -6.3)
+			(end -2.6 -6.3)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "4f80dba4-e63f-4b70-8163-278338b53ca2")
+		)
+		(fp_line
+			(start 2.6 -3.1)
+			(end 2.6 -6.3)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "648ba4e3-5d41-4227-92a7-277d31d68b1f")
+		)
+		(fp_line
+			(start 6.9 -6.9)
+			(end -6.9 -6.9)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "ddf223cd-c547-47b3-9442-e285495e723f")
+		)
+		(fp_line
+			(start 6.9 -6.9)
+			(end 6.9 6.9)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "d00b7cfa-e26a-410d-b332-7f976e9a6bec")
+		)
+		(fp_line
+			(start -9.5 2.5)
+			(end -7 2.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "adf93a77-dc97-4c02-b34b-214765ce5261")
+		)
+		(fp_line
+			(start -9.5 5)
+			(end -9.5 2.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "5975996f-c195-4a30-b20d-028601f9eb72")
+		)
+		(fp_line
+			(start -7 1.5)
+			(end -7 6.2)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0a5cf274-cd50-42ee-bdd1-937eb02d615d")
+		)
+		(fp_line
+			(start -7 5)
+			(end -9.5 5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3094f49a-ca13-4ea5-b897-771af84bdf82")
+		)
+		(fp_line
+			(start -7 6.2)
+			(end -2.5 6.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "f8fff2a9-5afb-4c54-aac6-f3c39b7be12a")
+		)
+		(fp_line
+			(start -2.5 1.5)
+			(end -7 1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "f656f5b1-a264-4812-b51a-fbf152fcecff")
+		)
+		(fp_line
+			(start -2.5 2.2)
+			(end -2.5 1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7af7350d-d61b-41fa-9b7b-271e94bd7ece")
+		)
+		(fp_line
+			(start -2 6.7)
+			(end -2 7.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3bab7723-51ff-466f-9124-eac2612086a2")
+		)
+		(fp_line
+			(start -1.5 8.2)
+			(end -2 7.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "9b2bdb72-41a2-42a5-9cf5-f52437084679")
+		)
+		(fp_line
+			(start 1.5 3.7)
+			(end -1 3.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a973fa98-ae94-421c-a328-cccef71fb0d9")
+		)
+		(fp_line
+			(start 1.5 8.2)
+			(end -1.5 8.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0189d718-fcef-40a7-b6a7-82fbfd5f58da")
+		)
+		(fp_line
+			(start 2 4.2)
+			(end 1.5 3.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0807d0d5-0f4a-418c-9e5a-6d2e69f905b4")
+		)
+		(fp_line
+			(start 2 4.25)
+			(end 2 7.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "428692c7-d838-4abd-ae7a-defc6458d2c2")
+		)
+		(fp_line
+			(start 2 4.75)
+			(end 4.5 4.75)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "eaa3501e-1726-47ca-bab3-bbf76dd18a92")
+		)
+		(fp_line
+			(start 2 7.7)
+			(end 1.5 8.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ae2343e9-b4d8-4b9e-83b9-139e87a4ef85")
+		)
+		(fp_line
+			(start 4.5 4.75)
+			(end 4.5 7.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "db748923-7d6a-4695-b939-2abcdbc1a8ba")
+		)
+		(fp_line
+			(start 4.5 7.25)
+			(end 2 7.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "87e469c2-de35-4fdf-a715-43127b8e57df")
+		)
+		(fp_arc
+			(start -2.5 6.2)
+			(mid -2.146447 6.346447)
+			(end -2 6.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "63de5f0f-dcb6-47fe-bbea-2395d7f4cbfa")
+		)
+		(fp_arc
+			(start -1 3.7)
+			(mid -2.06066 3.26066)
+			(end -2.5 2.2)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "51a31a21-ec99-44d9-b9f9-946b97a47274")
+		)
+		(fp_line
+			(start -7.5 -7.5)
+			(end 7.5 -7.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "263bde9e-5242-4d20-930a-d12e4e7a0190")
+		)
+		(fp_line
+			(start -7.5 7.5)
+			(end -7.5 -7.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4aa4a9ee-ff91-48d0-ac6b-d8e72ded6aae")
+		)
+		(fp_line
+			(start 7.5 -7.5)
+			(end 7.5 7.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8d7262e4-505b-4dde-b8e0-2719cfccd6b5")
+		)
+		(fp_line
+			(start 7.5 7.5)
+			(end -7.5 7.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "83c362d8-8a7d-4842-99ae-ebbd8fd06437")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -3 5 0)
+			(layer "B.Fab")
+			(uuid "c5947c43-d35b-43eb-bfcd-d942c5a42d4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "${VALUE}"
+			(at -1 9 0)
+			(layer "B.Fab")
+			(uuid "50bfc88b-8508-40c1-a975-b6a6465b2f17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at -5.5 0)
+			(size 1.7018 1.7018)
+			(drill 1.7018)
+			(layers "*.Cu" "*.Mask")
+			(uuid "0b6558ee-1c18-44f4-891b-836a42150269")
+		)
+		(pad "" np_thru_hole circle
+			(at -5 3.75)
+			(size 3 3)
+			(drill 3)
+			(layers "*.Cu" "*.Mask")
+			(uuid "6ab41b5c-77d0-4c84-83c2-33c8ee81f78a")
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 3.429 3.429)
+			(drill 3.429)
+			(layers "*.Cu" "*.Mask")
+			(uuid "fb1d34b8-16e4-4fc7-b8c5-3c8b789a9b96")
+		)
+		(pad "" np_thru_hole circle
+			(at 0 5.95)
+			(size 3 3)
+			(drill 3)
+			(layers "*.Cu" "*.Mask")
+			(uuid "b366bf85-81a3-4da3-8ee8-75d6bc592dc7")
+		)
+		(pad "" np_thru_hole circle
+			(at 5.22 -4.2)
+			(size 0.9906 0.9906)
+			(drill 0.9906)
+			(layers "*.Cu" "*.Mask")
+			(uuid "3ca2a0cd-95c5-43eb-b1e8-b7d68de04853")
+		)
+		(pad "" np_thru_hole circle
+			(at 5.5 0)
+			(size 1.7018 1.7018)
+			(drill 1.7018)
+			(layers "*.Cu" "*.Mask")
+			(uuid "ebba6689-e23a-497d-a87b-689f7617b6ca")
+		)
+		(pad "1" smd rect
+			(at 3.275 5.95)
+			(size 2.6 2.6)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(net "C4")
+			(pinfunction "1_1")
+			(pintype "passive")
+			(uuid "939fe590-8062-4a9b-816c-59308a8741fa")
+		)
+		(pad "2" smd rect
+			(at -8.275 3.75)
+			(size 2.6 2.6)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(net "Net-(D22-A)")
+			(pinfunction "2_2")
+			(pintype "passive")
+			(uuid "d98b821c-b9a4-4e74-bb11-e6b0bac45d2c")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "c8d286ce-1ebd-47cf-b271-2f8d9dc19da8")
-		(at 114.61 57.575)
+		(at 124.65 70.2)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D21"
@@ -21578,7 +22258,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "c9fcb905-5d30-4945-a505-ec291202d3c4")
-		(at 108.815 50.875)
+		(at 118.855 63.5)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D11"
@@ -21868,13 +22548,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "ccc40442-c4c5-4c67-9009-89f393720a66")
-		(at 73.875 101.125)
+		(at 42 80.3)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S16"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "2366c947-d914-490c-ae23-8514ebad0af1")
+			(uuid "84d8a7c7-b149-473a-bd65-bfe7ae11114a")
 			(effects
 				(font
 					(size 1 1)
@@ -21886,7 +22566,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "ffe0b757-3e7e-407c-973c-669f221818e6")
+			(uuid "0727fe1c-64c5-448c-aab0-3844c440653f")
 			(effects
 				(font
 					(size 1 1)
@@ -21898,7 +22578,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "616a53f4-c1be-4ebe-9c72-bf8efbbace11")
+			(uuid "f668ff19-1b43-49f1-b255-d9b16ecbd890")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21909,7 +22589,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33890267-cc76-47c7-acc9-704f73b20f7e")
+			(uuid "3c045011-f09a-482d-a057-993f9fa066f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22550,7 +23230,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "d26cad72-6821-4c0d-96f2-20c4877ed5b0")
-		(at 114.61 44.175)
+		(at 124.65 56.8)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D17"
@@ -22840,7 +23520,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "d6a34dc9-4fca-4ced-a305-51ec203f230f")
-		(at 126.155 44.005)
+		(at 136.195 56.63)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -22998,13 +23678,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "db3ab81b-8c9b-4475-bfd4-743c4dea8465")
-		(at 92.025 84.275)
+		(at 84.5 95.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S21"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "dcfa8a8e-1f32-4467-934b-58f8bfe7b097")
+			(uuid "2e41d822-9e04-40b1-959a-1e4ca084eb90")
 			(effects
 				(font
 					(size 1 1)
@@ -23016,7 +23696,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "cfa12d82-c6ad-4b98-8469-67c4cdef6b4a")
+			(uuid "36da3e18-cca0-49ea-b661-9d3c46902eb6")
 			(effects
 				(font
 					(size 1 1)
@@ -23028,7 +23708,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e99e48d-24e6-4451-a95a-6567ac9117df")
+			(uuid "a1c7ddb4-53c5-47a2-8345-1fbd412762b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23039,7 +23719,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "762acf5b-ec21-4bcd-b883-542827c3c0a6")
+			(uuid "07bf99e1-90db-4bc3-9da3-685d4c1d7e48")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23680,7 +24360,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "e0b067e7-9988-4064-bf0c-7cc87e087388")
-		(at 103.02 64.275)
+		(at 113.06 76.9)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
@@ -23970,7 +24650,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "e7692467-4ac8-416d-9781-e46ae94cf528")
-		(at 130.605 47.015)
+		(at 140.645 59.64)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -24128,7 +24808,7 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "e92ca769-b414-4d12-97c3-9cba49468a06")
-		(at 55.725 67.425)
+		(at 57.2 49.9)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S8"
@@ -24810,7 +25490,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "eb97023f-004d-4e6a-a574-f2682f8c9b55")
-		(at 103.02 54.225)
+		(at 113.06 66.85)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D4"
@@ -25100,13 +25780,13 @@
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "ede02465-4212-4890-827b-3ffaae679edb")
-		(at 37.575 50.575)
+		(at 26.78 34.7)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S1"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "822c52a9-fd83-4470-897f-8b4e395d4516")
+			(uuid "79a2b235-7465-4c4e-b006-a794ecf266ac")
 			(effects
 				(font
 					(size 1 1)
@@ -25118,7 +25798,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "f5f0d6b9-0ad0-4f25-8c12-eca3254482c7")
+			(uuid "a8982f5e-8838-4ac2-ae3c-592425efd919")
 			(effects
 				(font
 					(size 1 1)
@@ -25130,7 +25810,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9a890f3-c2e0-47af-8f96-7493c29e2bbb")
+			(uuid "82045acf-140c-4069-8100-89d35a5fdd61")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25141,7 +25821,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1c04567e-b598-427a-bfc8-76e7ec2b770b")
+			(uuid "abd63c62-3427-4e02-b982-eb4ff37bc476")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26220,7 +26900,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "f777a143-aca8-459e-80a4-7ac3deba60b0")
-		(at 114.61 47.525)
+		(at 124.65 60.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D18"
@@ -26510,7 +27190,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "f8e4cea1-fcef-4823-a020-db255ba09cae")
-		(at 121.705 47.015)
+		(at 131.745 59.64)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -26665,16 +27345,306 @@
 			)
 		)
 	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "F.Cu")
+		(uuid "f9315634-89df-4f1b-a0ad-c794f79d7805")
+		(at 124.57 74)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D22"
+			(at 0 -2 0)
+			(layer "F.SilkS")
+			(uuid "eb8b8164-be56-4ee4-9e22-79bb13398a08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 2.1 0)
+			(layer "F.Fab")
+			(uuid "ea07d479-f198-44d1-80bf-a9a7b22a0612")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "452e7607-de9a-4495-bcd0-30e3e5001948")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a444c2f4-e66f-4035-88e6-5b3823dfa451")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "D*DO?35*")
+		(path "/a92edfaf-c5c9-4d6d-a061-75eff395646f/f727fc47-812a-44f0-a197-5368255c73d1")
+		(sheetname "/KB_Matrix/")
+		(sheetfile "KB_Matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -2.36 -1)
+			(end -2.36 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cc6fbc7b-7d90-419b-b034-fb5d4d26b822")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "33f5961b-e792-4909-a4dd-c9fafaee7538")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ab8fd463-4e0a-4110-9df1-fc2df4ad4752")
+		)
+		(fp_line
+			(start -2.35 -1.15)
+			(end -2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "038608c5-97f8-4081-b448-ca1ca73ecbea")
+		)
+		(fp_line
+			(start -2.35 -1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "8dfbf245-4cc6-491e-90b9-ce80eecf9088")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "08be08de-74d6-41c8-aaa2-3ee181b9fd0e")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end -2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "001042b2-ff2b-4e91-a064-3fb640fef21c")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2e8940d4-727c-4c04-adc8-dff21bf434f9")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "60d0ccf2-c0ac-4dee-97a1-f73d32c4a10e")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ca456bcc-c230-43fa-b7e9-34de360ec96e")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d043f7c9-8f01-408c-9488-816ec5a7785e")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4536bd9b-8a09-49c4-aba3-cf46047106b0")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8717b0a0-ddd9-4c72-801f-679a164e9abf")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d97d56ee-ed32-4bf2-9997-cfefb913b2a5")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "839ea6e1-793b-4fb6-a424-21b8ba643b89")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8647e949-add1-43cd-b50d-f2436245a67c")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "15c2b53e-8acd-4ecc-bd2c-24dbd6d9194b")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "47d3ea71-504f-48dd-8ff7-e2e48e61d936")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -2 0)
+			(layer "F.Fab")
+			(uuid "c17761dc-38e6-41c2-963b-637845818c18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0)
+			(size 0.9 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "R3")
+			(pinfunction "K_1")
+			(pintype "passive")
+			(uuid "3b238fb7-02a0-415f-8162-fa2f3a54ef9d")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0)
+			(size 0.9 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(D22-A)")
+			(pinfunction "A_2")
+			(pintype "passive")
+			(uuid "ca328292-2aba-4047-9c95-19b206cdeaf8")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Keyboard switches:Kailh_socket_PG1350"
 		(layer "F.Cu")
 		(uuid "fd7987fa-8e9e-4ec9-9214-b5a5809477df")
-		(at 73.875 84.275)
+		(at 26.8 80.3)
 		(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
 		(tags "kailh,choc")
 		(property "Reference" "S15"
 			(at -5 -2 0)
 			(layer "B.SilkS")
-			(uuid "0fffdbad-8c4f-438d-a77d-c42342ce7916")
+			(uuid "0bb28b83-512f-4809-90bf-6b2abcc371d0")
 			(effects
 				(font
 					(size 1 1)
@@ -26686,7 +27656,7 @@
 		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "1ee4fe45-5331-4234-bf68-0296ce34656a")
+			(uuid "bd44e604-54a5-4063-aafe-d36a85c067e7")
 			(effects
 				(font
 					(size 1 1)
@@ -26698,7 +27668,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7923e846-15d6-4b39-803b-4c2d6b8342a9")
+			(uuid "3dbaa765-7405-42e2-99af-24b963a4fba3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26709,7 +27679,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c8724325-30fb-4470-a09d-f278df08152a")
+			(uuid "ff0b2f23-9863-494e-ad74-e15445517a14")
 			(effects
 				(font
 					(size 1.27 1.27)
