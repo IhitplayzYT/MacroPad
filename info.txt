@@ -3,4 +3,7 @@ total := 22
 1 x 1.5 := 4
 1 x 2.0 := 1
 
+Stabilisers for the 2u keys
+flx fix thre alignment bothe vertically and horizontally
+Fix the rotary encoder footprint
 Maybe add rotary encoders to use for some more macropad like functionality
